@@ -3,6 +3,7 @@ using static System.Net.WebRequestMethods;
 using System;
 using System.Net.Http;
 using Newtonsoft.Json;
+using File = System.IO.File;
 
 namespace APIsAndJSON
 {
@@ -37,9 +38,11 @@ namespace APIsAndJSON
             //API key = 345a4c658cfc583918c1d7cd1403b91e
             //Console.WriteLine("Please enter your API key:");
 
-            var key = "345a4c658cfc583918c1d7cd1403b91e";
 
 
+            var apiKey = File.ReadAllText("appsettings.json");
+
+            var key = JObject.Parse(apiKey).GetValue("key");
 
 
             while (true)

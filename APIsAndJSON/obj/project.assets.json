@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tbrun\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+      "projectUniqueName": "C:\\Users\\tbrun\\OneDrive\\Desktop\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
       "projectName": "APIsAndJSON",
-      "projectPath": "C:\\Users\\tbrun\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+      "projectPath": "C:\\Users\\tbrun\\OneDrive\\Desktop\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
       "packagesPath": "C:\\Users\\tbrun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tbrun\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\obj\\",
+      "outputPath": "C:\\Users\\tbrun\\OneDrive\\Desktop\\APIs-and-JSON-Exercise\\APIsAndJSON\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tbrun\\AppData\\Roaming\\NuGet\\NuGet.Config",
